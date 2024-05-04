@@ -1,7 +1,7 @@
 
 
-
-
+FROM alpine:latest
+CMD ["/bin/sh"]
 
 FROM amazoncorreto:17-alpine-jdk
 
